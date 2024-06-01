@@ -1,0 +1,6 @@
+# MacOS
+.DS_Store
+
+# All Gcodes should be escaped as it depends on the slicer
+*.bgcode
+*.gcode
